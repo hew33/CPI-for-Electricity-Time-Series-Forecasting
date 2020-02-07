@@ -1,7 +1,7 @@
 # CPI-for-Electricity-Time-Series-Forecasting
 Forecasting the 2020 CPI for electricity based on monthly CPI for electricity dataset with over 100 hundred years monthly records since 1913.
 ## Introduction
-Electricity is a very important energy of every person in this world. This project is aimed to forecast the future electricity comsumption in 2020. Data can be found on FRED at https://fred.stlouisfed.org/series/CUUR0000SEHF01
+Electricity is very important energy of every person in this world. This project is aimed to forecast the future electricity consumption in 2020. Data can be found on FRED at https://fred.stlouisfed.org/series/CUUR0000SEHF01
 ## Steps
 1. Data Gathering, Assessing, and Cleaning
 <br>      a. Rename the column with an appropriate name
