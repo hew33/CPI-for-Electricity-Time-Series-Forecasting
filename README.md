@@ -18,4 +18,4 @@ Electricity is very important energy of every person in this world. This project
 4. Forecasting: Add train and test datasets together and forecast the next 12 months CPI for electricity
 ## Result
 The CPI for electricity dataset has an approximately linear upward but slightly getting flat trend , seasonal pattern with a size of 12 months, and a more volatile residual in recent years. I tried the ETS model without damping and ETS without damping, the ETS model with damping, and ARIMA model.
-ETS model with damping and ETS model without damping have similar AIC and BIC, and both a lot lower than those of ARIMA model, but the much lower error measures, including MAE, MSE, MAPE, MPE, ME, RMSE, indicates that ETS model without damping is the best model. 
+ETS model with damping and ETS model without damping have similar AIC and BIC, and both a lot lower than those of ARIMA model, but the much lower error measures, including MAE, MSE, MAPE, MPE, ME, RMSE, indicate that ETS model without damping is the best model. 
